@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @arushiae
+- 👀 I’m interested in game development, python development, and web design
+- 🌱 I’m currently learning more about web & game development
+- 💞️ I’m looking to collaborate on any interesting projects!
